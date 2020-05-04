@@ -1,0 +1,5 @@
+azure-functions
+azure-iot-hub
+requests
+pandas
+numpy
