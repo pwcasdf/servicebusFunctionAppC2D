@@ -3,3 +3,4 @@ azure-iot-hub
 requests
 pandas
 numpy
+psycopg2
